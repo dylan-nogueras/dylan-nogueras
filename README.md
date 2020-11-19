@@ -7,4 +7,5 @@
 - 📫 How to reach me: my email is anogueras@correo.ugr.es and [this](https://www.linkedin.com/in/anogueraslara/) is my Linkedin.
 - :rainbow_flag: Pronouns: they/them. 
 
+[This](https://aure-nogueras.github.io/) is my personal website thanks to [this template](https://github.com/hashirshoaeb/home).
 
